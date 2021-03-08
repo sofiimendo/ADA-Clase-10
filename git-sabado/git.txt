@@ -1,0 +1,8 @@
+git log => Listar los commits (nos muestra el track).
+git checkout [track] => Nos lleva al commit en particular
+1) Abrir una proyecto nuevo y lo van a inicializar.
+2) Luego añadirán un título y un párrafo. Y lo commitearan.
+3) Agregar 3 párrafos y commitear.
+4) Borrar el párrafo 2 y commitear.
+5) Volver al commit que contiene al párrafo 2 visible y commitear.
+
